@@ -21,5 +21,14 @@ button {
 }
 
 .passo.ativo {
-    display:block
+    display:block;
 }
+
+ manin {
+     text-align: center;
+     max-width: 90%;
+ }
+
+ img {
+     max-width: 90%;
+ }
